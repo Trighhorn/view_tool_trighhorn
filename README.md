@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+ViewToolTrighhorn::Renderer.copyright 'Abrahan Gonzalez', 'All rights reserved'
+```
 
 ## Development
 
